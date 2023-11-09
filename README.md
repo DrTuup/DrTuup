@@ -15,7 +15,7 @@
 
 ---
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs,react,nextjs,dotnet,md,py)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs,react,nextjs,dotnet,md,py,go)
 
 ### Tools
 
