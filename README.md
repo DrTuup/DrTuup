@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🙋🏻‍♂️ I'm Ruben, a full-stack developer from the Netherlands 🇳🇱.
-- 📚 I'm currently studying Computer Science at the Zuyd University.
+- 📚 I'm currently studying Computer Science at Zuyd University.
 
 ## How to reach me
 
